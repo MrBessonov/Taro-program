@@ -1,2 +1,2 @@
 # Tarot-program
-Simple program with  tarot card spreads
+First version of simple program for tarot spreads.
